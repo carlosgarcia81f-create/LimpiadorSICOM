@@ -1,0 +1,6 @@
+pandas
+re
+io
+xlsxwriter
+streamlit
+openpyxl
